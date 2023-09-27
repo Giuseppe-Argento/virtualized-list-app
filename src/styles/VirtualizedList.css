@@ -14,6 +14,9 @@
 
 .title {
   font-size: 24px;
+  flex-grow: 1;
+  text-align: center; 
+  padding-left:148px
 }
 
 .add-button {
@@ -25,6 +28,8 @@
   cursor: pointer;
   border-radius: 5px;
 }
+
+
 
 .add-button:hover {
   background-color: #0056b3;
